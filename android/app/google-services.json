@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411386194793",
+    "project_id": "task4478",
+    "storage_bucket": "task4478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411386194793:android:a3501a748bac8689726bf8",
+        "android_client_info": {
+          "package_name": "com.example.ragistration_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfk1km0r09kUfO6lR1xsDCmctyuaAMlFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411386194793:android:0c71a48b1abd62bd726bf8",
+        "android_client_info": {
+          "package_name": "com.example.reasturant_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfk1km0r09kUfO6lR1xsDCmctyuaAMlFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
